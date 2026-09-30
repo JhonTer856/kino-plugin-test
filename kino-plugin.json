@@ -4,7 +4,7 @@
   "name": "Catálogo de Prueba Funcional",
   "version": "2.0.0",
   "description": "Un plugin real con canales en vivo y películas de prueba.",
-  "author": "Tu Nombre",
+  "author": "JhonTer856",
   "entry": "./plugin.js",
   "permissions": [
     "https://akamaihd.net",
