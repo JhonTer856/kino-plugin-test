@@ -1,4 +1,5 @@
 {
+  "apiVersion": 1,
   "id": "mi-kino-plugin-funcional",
   "name": "Catálogo de Prueba Funcional",
   "version": "1.0.0",
