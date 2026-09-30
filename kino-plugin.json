@@ -1,0 +1,12 @@
+{
+  "id": "mi-kino-plugin-funcional",
+  "name": "Catálogo de Prueba Funcional",
+  "version": "1.0.0",
+  "description": "Un plugin real con canales en vivo y películas de prueba.",
+  "author": "Tu Nombre",
+  "main": "plugin.js",
+  "permissions": [
+    "https://akamaihd.net",
+    "https://googleapis.com"
+  ]
+}
