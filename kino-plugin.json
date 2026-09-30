@@ -1,11 +1,11 @@
 {
   "apiVersion": 1,
-  "id": "mi-kino-plugin-funcional-v2",
+  "id": "mi-kino-nuevo-v3",
   "name": "Catálogo de Prueba Funcional",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Un plugin real con canales en vivo y películas de prueba.",
-  "author": "JhonTer856",
-  "entry": "./plugin.js",
+  "author": "Tu Nombre",
+  "entry": "./main.js",
   "permissions": [
     "https://akamaihd.net",
     "https://googleapis.com"
